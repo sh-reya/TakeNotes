@@ -5,7 +5,7 @@
 
 The Plan to carry out this project is as follows:
 
-<img src="img/n1.jpeg" align="left" height="600" width="350"> 
+<img src="img/n1.jpg" align="left" height="600" width="350"> 
 
 
    It works on Android Architecture Components.
