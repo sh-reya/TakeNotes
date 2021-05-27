@@ -1,5 +1,5 @@
 # TakeNotes
-#### Full Stack Android App
+## Full Stack Android App
 
 ### This is a full-stack application that is quite similar to the notes taking app of our android sets.
 
