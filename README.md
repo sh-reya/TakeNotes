@@ -15,4 +15,4 @@
    
 <br><br><br><br>
 
-<img src="img/1.jpeg" align="left" height="500" width="500"> <img src="img/2.jpeg" align="right" height="500" width="500"> <img src="img/3.jpeg" align="left" height="500" width="500"> <img src="img/4.jpeg" align="right" height="500" width="500"> 
+<img src="img/1.jpeg" align="left" height="500" width="350"> <img src="img/2.jpeg" align="right" height="500" width="350"> <img src="img/3.jpeg" align="left" height="500" width="350"> <img src="img/4.jpeg" align="right" height="500" width="350"> 
