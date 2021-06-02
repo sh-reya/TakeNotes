@@ -20,7 +20,7 @@
     <li>UI</li>
   </ul>
   </list>
-### The Plan to carry out this project is as follows:
+<h4 align="center"> The Plan to carry out this project is as follows:</h4>
 
 <img src="img/n1.jpg" align="left" height="650" width="550"> 
 
