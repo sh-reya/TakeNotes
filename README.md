@@ -1,9 +1,26 @@
-# TakeNotes
-## Full Stack Android App
+# Full Stack Android App
+## TakeNotes [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsh-reya%2FBuzzFeed&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### This is a full-stack application that is quite similar to the notes taking app of our android sets.
-
-## The Plan to carry out this project is as follows:
+#### About
+   This is a full-stack application that is quite similar to the notes taking app of our android sets.
+   
+#### Tools and Languages Required
+<list>
+  <ul>
+    <li>Android Studio</li>
+    <li>Kotlin</li>
+    <li>xml</li>
+    <li>recycler view</li>
+    <li>Layout manager</li>
+    <li>Android architecture</li>
+    <li>Room Database</li>
+    <li>DAO</li>
+    <li>Repository</li>
+    <li>View Model</li>
+    <li>UI</li>
+  </ul>
+  </list>
+### The Plan to carry out this project is as follows:
 
 <img src="img/n1.jpg" align="left" height="650" width="550"> 
 
