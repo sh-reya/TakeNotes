@@ -13,6 +13,6 @@
    If the user decides to delete a particular note, then that data is removed from the database.
    
    
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <img src="img/1.jpeg"  height="500" width="350"> <img src="img/2.jpeg"  height="500" width="350"> <img src="img/3.jpeg"  height="500" width="350"> <img src="img/4.jpeg"  height="500" width="350"> 
