@@ -45,6 +45,6 @@ It works on Android Architecture Components. The app uses a real time database i
 <br><br><br>
 <h3 align="center">Output Images:</h3>
 <br>
-<p align="center"><img src="img/2.jpeg"  height="500" width="350"> <img src="img/3.jpeg" height="500" width="350"></p>
+<p align="center"><img src="img/2.jpeg"  height="600" width="350"> <img src="img/3.jpeg" height="600" width="350"></p>
 <br><br>
-<p align="center"><img src="img/1.jpeg"  height="500" width="350"> <img src="img/4.jpeg" height="500" width="350"> </p>
+<p align="center"><img src="img/1.jpeg"  height="600" width="350"> <img src="img/4.jpeg" height="600" width="350"> </p>
