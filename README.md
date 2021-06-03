@@ -2,7 +2,7 @@
 ## TakeNotes [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsh-reya%2FBuzzFeed&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### About
-   This is a full-stack application that is quite similar to the notes taking app of our android sets.
+   This is a full-stack application that is quite similar to the notepad.
    
 #### Tools and Languages Required
 <list>
